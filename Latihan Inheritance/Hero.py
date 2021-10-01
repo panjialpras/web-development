@@ -1,5 +1,5 @@
 import os
-
+# nilai tetap jika tidak ada kategori Hero`
 class Hero:
     def __init__(self, name):
         self.health_point = [0, 1305, 2135, 4021, 5961]
